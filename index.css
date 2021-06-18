@@ -1,0 +1,181 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.banner_1{
+    
+     height: 500px;
+    width: 95%;
+    background-color:white;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+    text-align: justify;
+    font-size: 20px;
+    
+
+    
+
+}
+
+h1{
+
+font-size: 45px;
+text-align: center;
+margin: 50px;
+font-style: italic;
+margin-top: 25px;
+padding:25px;
+
+}
+
+
+
+
+.banner_1child{
+
+    height: 150px;
+    width: 25%;
+    background-color:white;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-align: justify;
+    font-size: 30px;
+    border: lightcyan;
+        
+}
+.banner_2child{
+
+
+    height: 150px;
+    width: 25%;
+    background-color:white;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    font-size: 30px;
+
+    }
+
+    li{
+        font-size: 40px;
+        font-family: 'Segoe UI';
+        font-style: inherit;
+        margin-top: 20px;
+    }
+
+
+
+    .banner_3child{
+
+        height: 150px;
+        width: 25%;
+        background-color:lightcoral;
+        display: inline-block;
+        margin-left: 110px;
+        margin-right: 20px;
+        margin-top: 50px;
+        align-content: center;
+        margin-bottom: 50px;
+        font-size: 30px;
+
+
+    
+    }
+
+
+.banner_4child{
+
+    height: 100px;
+    width: 20%;
+    background-color:lightcoral;
+    display: inline-block;
+    margin-left: 110px;
+    margin-right: 20px;
+    margin-top: 70px;
+    align-content: center;
+    font-size: 30px;
+    
+
+
+}
+
+.banner_5child{
+
+    height: 150px;
+    width: 25%;
+    background-color:lightcoral;
+    display: inline-block;
+    margin-left: 110px;
+    margin-right: 20px;
+    margin-top: 20px;
+    align-content: center;
+    text-align: bolt;
+    font-size: 30px;
+
+
+}
+
+.banner_6child{
+
+
+    height: 150px;
+    width: 25%;
+    background-color:white;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 50px;
+font-size: 35px;
+padding-bottom: 50px;
+
+
+}
+
+.banner_7child{
+
+
+    height: 200px;
+    width: 80%;
+    background-color:white;
+    display: inline-block;
+    margin-left: 220px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 50px;
+font-size: 35px;
+padding-bottom: 50px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
